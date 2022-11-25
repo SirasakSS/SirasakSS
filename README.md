@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <a href="https://sirasak-saengaurai.com/">Website</a> •
+  <a href="https://www.facebook.com/oat.135791">facebook</a> •
+  <a href="https://www.instagram.com/oat.sxrx">instagram</a>
+</p>
+
+I'm a __frontend developer__. I
+
+* 🔖 Discover my [personal record](https://sirasak-saengaurai.com/assets/img/cv_sirasak.pdf)<br/>
+* 📫 Contact me [@OAT_SXRX](https://twitter.com/OAT_SXRX)
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SirasakSS.SirasakSS)
 
 <!--
 **SirasakSS/SirasakSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
