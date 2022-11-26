@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/oat.sxrx">instagram</a>
 </p>
 
-I'm a __frontend developer__. I
+I'm a __frontend developer__. 
 
 * 🔖 Discover my [personal record](https://sirasak-saengaurai.com/assets/img/cv_sirasak.pdf)<br/>
 * 📫 Contact me [@OAT_SXRX](https://twitter.com/OAT_SXRX)
