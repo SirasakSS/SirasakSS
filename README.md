@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://sirasak-saengaurai.com/" target="_blank">Website</a> •
-  <a href="https://www.facebook.com/oat.135791" target="_blank">facebook</a> •
-  <a href="https://www.instagram.com/oat.sxrx" target="_blank">instagram</a>
+  <a href="https://sirasak-saengaurai.com/">Website</a> •
+  <a href="https://www.facebook.com/oat.135791">facebook</a> •
+  <a href="https://www.instagram.com/oat.sxrx">instagram</a>
 </p>
 
 I'm a __frontend developer__. 
