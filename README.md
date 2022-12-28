@@ -9,8 +9,7 @@
 I'm a __frontend developer__. 
 
 * 🔖 Discover my [personal record](https://sirasak-saengaurai.com/assets/img/cv_sirasak.pdf)<br/>
-* 📫 Contact me [@OAT_SXRX](https://twitter.com/OAT_SXRX)
-* [sirasak1511@gmail.com](mailto:sirasak1511@gmail.com)
+* 📫 Contact me [sirasak1511@gmail.com](mailto:sirasak1511@gmail.com)
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SirasakSS.SirasakSS)
