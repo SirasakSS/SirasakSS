@@ -8,7 +8,7 @@
 
 I'm a __frontend developer__. 
 
-* 🔖 Discover my [personal record](https://sirasak-saengaurai.com/assets/img/cv_sirasak.pdf)<br/>
+* 🔖 Discover my [personal record](https://sirasak-saengaurai.com/assets/img/Resume_Sirasak-Saengaurai_Backend.pdf)<br/>
 * 📫 Contact me [sirasak1511@gmail.com](mailto:sirasak1511@gmail.com)
 
 
